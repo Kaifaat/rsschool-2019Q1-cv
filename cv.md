@@ -3,7 +3,8 @@
 ### 2.Contacts:  
 E-mail: [artem.meka@gmail.com](mailto:artem.meka@gmail.com)  
 Vkontakte: [id133141729 ](https://vk.com/id133141729)  
-Skype: [torin972](skype:torin972?chat)
+Skype: [torin972](skype:torin972?chat)  
+Phone number: [+375441848623]()
 ### 3.Summary:  
 Self-development is what I do all my life. Recently, I decided that 
 front-end web development is something that I have to master. I 
